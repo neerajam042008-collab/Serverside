@@ -6,7 +6,7 @@
 
 
 ## FORMULA:
-P = w/h<sup>2</sup>
+bmi = w/h<sup>2</sup>
 <br> w --> weight (in kg)
 <br> h --> height (in cm)
 <br> bmi--> body mass index
