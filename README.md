@@ -6,11 +6,10 @@
 
 
 ## FORMULA:
-P = I<sup>2</sup>R
-<br> P --> Power (in watts)
-<br> I --> Intensity
-<br> R --> Resistance
-
+P = w/h<sup>2</sup>
+<br> w --> weight (in kg)
+<br> h --> height (in cm)
+<br> bmi--> body mass index
 ## DESIGN STEPS:
 
 ### Step 1:
